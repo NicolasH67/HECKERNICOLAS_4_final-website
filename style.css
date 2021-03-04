@@ -1061,3 +1061,9 @@ h4 {
 .citation-auteur {
     font-size: 1.4rem;
 }
+
+.title-real {
+    width: 43%;
+    margin-left: auto;
+    margin-right: auto;
+}
