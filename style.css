@@ -1040,3 +1040,24 @@ h4 {
         text-align: center;
     }
 }
+
+/* élément que je rajoute */
+#pres 
+{
+    width: 63%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.citation {
+    font-size: 2rem;
+    font-style: italic;
+    width: 81%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -1px;
+}
+
+.citation-auteur {
+    font-size: 1.4rem;
+}
