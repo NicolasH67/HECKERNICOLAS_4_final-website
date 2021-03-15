@@ -776,7 +776,7 @@ h4 {
 }
 
 .tc-white {
-    color: #000000!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
@@ -1076,5 +1076,9 @@ h4 {
 }
 
 #address {
+    color: #000000;
+}
+
+.PContact {
     color: #000000;
 }
