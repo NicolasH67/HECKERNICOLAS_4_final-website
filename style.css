@@ -1079,3 +1079,9 @@ h4 {
 .PContact {
     color: #000000;
 }
+
+@media (max-width: 767px) {
+    .annuaire {
+        display: none;
+    }
+}
