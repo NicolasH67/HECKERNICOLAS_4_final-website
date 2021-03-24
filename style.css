@@ -775,7 +775,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #ad6b4c;
 }
 
 .tc-white {
@@ -1046,6 +1046,12 @@ h4 {
     margin-left: auto;
     margin-right: auto;
 }
+@media (max-width: 767px) {
+    #pres {
+        width: 100%;
+    }
+}
+
 
 .citation {
     font-size: 2rem;
@@ -1066,6 +1072,13 @@ h4 {
     margin-left: auto;
     margin-right: auto;
 }
+
+@media (max-width: 767px) {
+    .title-real {
+        width: 100%;
+    }
+}
+
 .footer__lien {
     color: #000000!important;
     width: 100%;
@@ -1088,10 +1101,4 @@ h4 {
 }
 .text-center {
     height: 100%;
-}
-
-@media (max-width: 767px) {
-    .annuaire {
-        display: none;
-    }
 }
