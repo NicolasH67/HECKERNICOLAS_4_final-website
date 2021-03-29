@@ -19,4 +19,6 @@ Tu trouveras en pièce jointe une maquette de notre site en son état actuel.
 Sophie
 Sophie Vasseur - Fondatrice de la chouette agence
 
+lien vers le site d'origine ; https://nicolash67.github.io/HECKERNICOLAS_4_starting-website/
+
 lien github Page : https://nicolash67.github.io/HECKERNICOLAS_4_final-website/
